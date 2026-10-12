@@ -111,4 +111,9 @@ graph LR
 Проект распространяется под лицензией [MIT](LICENSE)
 
 ## 📂 Materials
-* 📄 [Download Full REDUCING_THE_OPERATION_TO_I_EQUIVALENT (PDF)](assets/REDUCING_THE_OPERATION_TO_I_EQUIVALENT.pdf?raw=true)
+
+---
+
+## Live Presentation
+You can explore the interactive presentation of this research here:  
+🔗 **[Anri Kosto - CPS Information Search Optimization](https://anrikos.github.io/Data-driven-system/)**
